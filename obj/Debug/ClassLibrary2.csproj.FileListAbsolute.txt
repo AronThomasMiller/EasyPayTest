@@ -1,0 +1,2 @@
+C:\Users\sutnu\Source\Repos\sdddddd2\ClassLibrary2\obj\Debug\ClassLibrary2.csprojAssemblyReference.cache
+C:\Users\sutnu\Source\Repos\sdddddd2\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
